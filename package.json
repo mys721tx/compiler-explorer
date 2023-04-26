@@ -23,7 +23,7 @@
     "@sentry/browser": "^7.28.1",
     "@sentry/node": "^7.28.1",
     "@types/morgan": "^1.9.4",
-    "aws-sdk": "^2.1048.0",
+    "aws-sdk": "^2.1365.0",
     "big-integer": "^1.6.51",
     "body-parser": "^1.19.1",
     "bootstrap": "^4.6.1",
